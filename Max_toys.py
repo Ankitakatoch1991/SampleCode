@@ -18,7 +18,7 @@ def max_chars(str):
     print(max)
     print(max_char)
 
-max_chars("ankitakatoch")
+max_chars("ankitakatoch123")
 
 # 2. How to remove all duplicates from a given string?
 
